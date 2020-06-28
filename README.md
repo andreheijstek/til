@@ -28,7 +28,6 @@ A repository of TIL, organized by categories, the idea comes from https://github
 
 ### Agile
 
----
 - [probeersel4](agile/2020-06-28_probeersel4.md)
 
 ### Unix
