@@ -9,7 +9,7 @@ A repository of TIL, organized by categories, the idea comes from https://github
 * [Ruby](#ruby)
 * [Scrum](#scrum)
 * [Agile](#agile)
-* [Uniix](#unix)
+* [Unix](#unix)
 
 ---
 
