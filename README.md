@@ -7,6 +7,9 @@ A repository of TIL, organized by categories, the idea comes from https://github
 ### Categories
 
 * [Ruby](#ruby)
+* [Scrum](#scrum)
+* [Agile](#agile)
+* [Uniix](#unix)
 
 ---
 
