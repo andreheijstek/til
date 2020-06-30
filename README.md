@@ -12,7 +12,7 @@ A repository of TIL, organized by categories, the idea comes from https://github
 * [Unix](#unix)
 * [Facilitation](#facilitation)
 * [LeSS](#less)
-* [Systems thinking](#systems_thinking)
+* [systems_thinking](#systems_thinking)
 
 ---
 
