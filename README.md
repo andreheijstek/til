@@ -10,6 +10,9 @@ A repository of TIL, organized by categories, the idea comes from https://github
 * [Scrum](#scrum)
 * [Agile](#agile)
 * [Unix](#unix)
+* [Facilitation](#facilitation)
+* [LeSS](#less)
+* [Systems thinking](#systems_thinking)
 
 ---
 
@@ -31,3 +34,15 @@ A repository of TIL, organized by categories, the idea comes from https://github
 - [probeersel4](agile/2020-06-28_probeersel4.md)
 
 ### Unix
+
+---
+
+### Facilitation
+
+---
+
+### Less
+
+---
+
+### Systems thinking
