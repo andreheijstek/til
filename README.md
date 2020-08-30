@@ -6,6 +6,7 @@ A repository of TIL, organized by categories, the idea comes from https://github
 
 ### Categories
 
+* [Rails](#rails)
 * [Ruby](#ruby)
 * [Rails](#rails)
 * [Scrum](#scrum)
@@ -16,6 +17,10 @@ A repository of TIL, organized by categories, the idea comes from https://github
 * [systems_thinking](#systems_thinking)
 
 ---
+
+### Rails
+
+- [Using SitePrism for page objects](rails/2020-08-30_using-siteprism-for-page-objects.md)
 
 ### Ruby
 
