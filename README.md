@@ -13,6 +13,7 @@ A repository of TIL, organized by categories, the idea comes from https://github
 * [Facilitation](#facilitation)
 * [LeSS](#less)
 * [systems_thinking](#systems thinking)
+* [Rails](#rails)
 
 ---
 
