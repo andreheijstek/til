@@ -31,10 +31,6 @@ A repository of TIL, organized by categories, the idea comes from https://github
 - [probeersel](ruby/2020-06-28_probeersel.md)
 - [probeersel3](ruby/2020-06-28_probeersel3.md)
 
-### Rails
-
----
-
 ### Scrum
 
 ---
