@@ -7,13 +7,13 @@ A repository of TIL, organized by categories, the idea comes from https://github
 ### Categories
 
 * [Ruby](#ruby)
+* [Rails](#rails)
 * [Scrum](#scrum)
 * [Agile](#agile)
 * [Unix](#unix)
 * [Facilitation](#facilitation)
 * [LeSS](#less)
-* [systems_thinking](#systems thinking)
-* [Rails](#rails)
+* [systems_thinking](#systems_thinking)
 
 ---
 
@@ -25,6 +25,10 @@ A repository of TIL, organized by categories, the idea comes from https://github
 - [probeersel](ruby/2020-06-28_probeersel.md)
 - [probeersel](ruby/2020-06-28_probeersel.md)
 - [probeersel3](ruby/2020-06-28_probeersel3.md)
+
+### Rails
+
+---
 
 ### Scrum
 
