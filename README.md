@@ -14,6 +14,7 @@ A repository of TIL, organized by categories, the idea comes from https://github
 * [Unix](#unix)
 * [Facilitation](#facilitation)
 * [LeSS](#less)
+* [Marketing](#marketing)
 * [systems_thinking](#systems_thinking)
 
 ---
@@ -52,3 +53,7 @@ A repository of TIL, organized by categories, the idea comes from https://github
 ---
 
 ### Systems thinking
+
+### Marketing
+
+- [Wat is het verschil tussen een whitepaper en een blog?](marketing/2020-08-31_wat-is-het-verschil-tussen-een-whitepaper-en-een-blog%3F.md)
