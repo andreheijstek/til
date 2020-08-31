@@ -1,6 +1,6 @@
 # TIL
 
-A repository of TIL, organized by categories, the idea comes from https://github.com/jbranchaud/til
+A repository of TIL (Today I Learned), organized by categories, the idea comes from https://github.com/jbranchaud/til
 
 ---
 
