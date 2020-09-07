@@ -11,3 +11,14 @@ See this example:
     end
 
 Here I first define the URL for the Page and then the field on the page that I use for testing.
+
+In tests you can then use these page objects:
+
+    let(:ssp) { ShowStudynotePage.new }
+    let(:ncp) { NewCommentPage.new }
+    
+    ssp.load
+    ncp.load(studynote: note.id)
+    
+ssp.load navigates to the ShowStudynotePage, so the elements are available for setting and getting etc.
+ncp.load navigates to one specific CommentPage, the page belonging to this studynote.
