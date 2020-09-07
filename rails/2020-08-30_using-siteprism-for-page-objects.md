@@ -16,6 +16,7 @@ In tests you can then use these page objects:
 
     let(:ssp) { ShowStudynotePage.new }
     let(:ncp) { NewCommentPage.new }
+    let(:note) { create(:studynote) }
     
     ssp.load
     ncp.load(studynote: note.id)
