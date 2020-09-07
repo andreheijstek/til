@@ -21,4 +21,5 @@ In tests you can then use these page objects:
     ncp.load(studynote: note.id)
     
 ssp.load navigates to the ShowStudynotePage, so the elements are available for setting and getting etc.
+
 ncp.load navigates to one specific CommentPage, the page belonging to this studynote.
