@@ -15,6 +15,7 @@ A repository of TIL (Today I Learned), organized by categories, the idea comes f
 ### Rails
 
 - [Using SitePrism for page objects](rails/2020-08-30_using-siteprism-for-page-objects.md)
+- [](rails/2020-11-08_.md)
 
 ### Ruby
 
