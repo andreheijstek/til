@@ -16,6 +16,7 @@ A repository of TIL (Today I Learned), organized by categories, the idea comes f
 
 - [Using SitePrism for page objects](rails/2020-08-30_using-siteprism-for-page-objects.md)
 - [duplicate key violates unique constraint](rails/2020-11-08_.md)
+- [Migration problems](rails/2020-11-08_migration-problems.md)
 
 ### Ruby
 
